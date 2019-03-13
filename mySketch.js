@@ -62,7 +62,7 @@ function setup() {
   
   textAlign(CENTER);
   
-  background(0);
+  background(255);
 } 
 
 
