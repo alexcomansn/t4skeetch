@@ -58,7 +58,7 @@ function Particle(x, y, level) {
 function setup() {
   createCanvas(windowWidth, windowHeight); 
   
-  colorMode(HSB, 360);
+  colorMode(HSB, 255);
   
   textAlign(CENTER);
   
